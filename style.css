@@ -7,9 +7,10 @@ h1{
   background-color: bisque
 }
 h3{
-  text-align: left;
-  border: 2px solid blue;
+  text-align: center;
+  border: 2px double blue;
   border-radius: 3px;
   color: black;
   background-color: white
+  background-color: skyblue
 }
