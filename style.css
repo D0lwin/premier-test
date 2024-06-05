@@ -1,8 +1,15 @@
-hi{
+h1{
   text-align: center;
   text-transform: uppercase;
   border: 3px solid orange;
   border-radius: 5px;
   color: red;
   background-color: bisque
+}
+h3{
+  text-align: left;
+  border: 2px solid blue;
+  border-radius: 3px;
+  color: black;
+  background-color: white
 }
