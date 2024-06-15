@@ -1,3 +1,6 @@
+body{
+  background-image: url("http://eu.blizzard.com/invite/static/images/battlenet-logo.png")
+}
 h1{
   text-align: center;
   text-transform: uppercase;
